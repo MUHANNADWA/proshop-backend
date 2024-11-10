@@ -15,7 +15,7 @@ import {
   PRODUCTS_URL,
   USERS_URL,
   UPLOAD_URL,
-} from "../frontend/src/constants.js";
+} from "./constants.js";
 
 dotenv.config();
 connectDB();
